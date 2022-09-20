@@ -1,0 +1,8 @@
+dset:
+  train: pathname/valentini/tr
+  valid: pathname/valentini/cv
+  test: pathname/valentini/tt
+  noisy_json: pathname/valentini/tt/noisy.json
+  noisy_dir:
+  matching: sort
+pesq: 1
