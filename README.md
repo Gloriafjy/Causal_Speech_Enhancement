@@ -5,7 +5,7 @@ First, install Python (recommended with Anaconda).
 ## Development
 
 Clone this repository and install the dependencies. We recommend using
-a fresh virtualenv or Conda environment.
+a fresh Conda environment.
 
 ```bash
 git clone https://github.com/Gloriafjy/Causal_Speech_Enhancement
