@@ -9,7 +9,7 @@ a fresh Conda environment.
 
 ```bash
 git clone https://github.com/Gloriafjy/Causal_Speech_Enhancement
-cd model
+cd code
 pip install -r requirements_cuda.txt
 ```
 
